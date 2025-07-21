@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre.leandro\\Desktop\\Dio\\Dio.csproj": {}
+    "C:\\Users\\andre.leandro\\Desktop\\DIO---Trilha-.NET---Fundamentos\\Dio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre.leandro\\Desktop\\Dio\\Dio.csproj": {
+    "C:\\Users\\andre.leandro\\Desktop\\DIO---Trilha-.NET---Fundamentos\\Dio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre.leandro\\Desktop\\Dio\\Dio.csproj",
+        "projectUniqueName": "C:\\Users\\andre.leandro\\Desktop\\DIO---Trilha-.NET---Fundamentos\\Dio.csproj",
         "projectName": "Dio",
-        "projectPath": "C:\\Users\\andre.leandro\\Desktop\\Dio\\Dio.csproj",
+        "projectPath": "C:\\Users\\andre.leandro\\Desktop\\DIO---Trilha-.NET---Fundamentos\\Dio.csproj",
         "packagesPath": "C:\\Users\\andre.leandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre.leandro\\Desktop\\Dio\\obj\\",
+        "outputPath": "C:\\Users\\andre.leandro\\Desktop\\DIO---Trilha-.NET---Fundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre.leandro\\AppData\\Roaming\\NuGet\\NuGet.Config"
