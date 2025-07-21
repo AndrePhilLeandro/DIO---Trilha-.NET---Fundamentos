@@ -1,2 +1,2 @@
 # DIO---Trilha-.NET---Fundamentos
-Entregua de Projeto DIO
+Entrega de Projeto DIO
